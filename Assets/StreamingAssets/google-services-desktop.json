@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "130195634848",
+    "firebase_url": "https://clonetsumu-default-rtdb.firebaseio.com",
+    "project_id": "clonetsumu",
+    "storage_bucket": "clonetsumu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130195634848:ios:208b7ca1ac6d36e90667c5",
+        "android_client_info": {
+          "package_name": "com.myTestGame.CloneTsumu"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcaMBrNDrbPMN6ki6wkbMcmQmtOeDiNvQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
