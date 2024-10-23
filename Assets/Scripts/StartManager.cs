@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class StartManager : MonoBehaviour
 {
@@ -12,5 +13,9 @@ public class StartManager : MonoBehaviour
     void Update()
     {
         
+    }
+
+    void StartBtn(){
+        SceneManager.LoadScene("MainScene");
     }
 }
