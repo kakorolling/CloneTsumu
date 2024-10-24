@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "130195634848",
+    "firebase_url": "https://clonetsumu-default-rtdb.firebaseio.com",
+    "project_id": "clonetsumu",
+    "storage_bucket": "clonetsumu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130195634848:android:2a39257aa1a5fbd80667c5",
+        "android_client_info": {
+          "package_name": "com.myTestGame.CloneTsumu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130195634848-dv1gn3hab07ac3uma5le594tcved8ce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myTestGame.CloneTsumu",
+            "certificate_hash": "416964f91fcfe56f47565f82b7106e9857796c51"
+          }
+        },
+        {
+          "client_id": "130195634848-4dia26ud1hbnvqgbfp1k3i29sq7buo4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-7oCQrZNwEhOq6VXgGlRYOSSQV9MugM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130195634848-4dia26ud1hbnvqgbfp1k3i29sq7buo4b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130195634848-gg81n6p0q9qaqeaco7hmusug3ireo4oh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myTestGame.CloneTsumu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
