@@ -75,3 +75,6 @@ crashlytics-build.properties
 #API
 /[Aa]ssets/google-services.json
 /[Aa]ssets/GoogleService-Info.plist
+/[Aa]ssets/[Ss]treamingAssets/google-services-desktop.json
+/[Aa]ssets/[Ss]treamingAssets/google-services-desktop.json
+
