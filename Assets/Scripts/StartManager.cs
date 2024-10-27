@@ -19,12 +19,18 @@ public class StartManager : MonoBehaviour
     IEnumerator Opening(){
         yield return new WaitForSeconds(1f);
         startBtn.SetActive(true);
-        //startBtn.GetComponent<Animation>().Play();
     }
 
     public void PushStartBtn(){
         SoundManager.instace.PlaySE("Enter");
         signinWindow.SetActive(true);
         shadow.SetActive(true);
+    }
+
+    public void PushBackBtn(){
+        SoundManager.instace.PlaySE("Enter");
+        signinWindow.SetActive(false);
+        shadow.SetActive(false);
+        startBtn.SetActive(true);
     }
 }
