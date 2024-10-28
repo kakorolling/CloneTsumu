@@ -301,7 +301,7 @@ GameObject:
   - component: {fileID: 73388954}
   - component: {fileID: 73388953}
   m_Layer: 5
-  m_Name: CoinAmountTxt
+  m_Name: JewelAmountTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4407,9 +4407,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dfc9c89d3c4f4b44b7ca99df9bb3a44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelTxtUI: {fileID: 0}
-  coinTxtUI: {fileID: 0}
-  jewelTxtUI: {fileID: 0}
+  levelTxtUI: {fileID: 298523201}
+  coinTxtUI: {fileID: 1594930010}
+  jewelTxtUI: {fileID: 73388953}
+  nickNameTxtUI: {fileID: 1358075010}
+  heartsUI: []
+  fullHeart: {fileID: -1546769452, guid: d0844cda3f6494ce8bab4acfd1eeb21a, type: 3}
+  emptyHeart: {fileID: 250127000, guid: d0844cda3f6494ce8bab4acfd1eeb21a, type: 3}
 --- !u!1 &1953001418
 GameObject:
   m_ObjectHideFlags: 0

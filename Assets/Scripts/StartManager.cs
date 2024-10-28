@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class StartManager : MonoBehaviour
 {
+
     public GameObject startBtn;
     public GameObject shadow;
     public GameObject signinWindow;
